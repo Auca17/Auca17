@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Auca17
-- 👀 I’m interested in learning some shit :)
+- 👀 I’m interested in learning some smth :)
 - 🌱 I’m currently studying software engineering at UM
 - 💞️ I’m looking to collaborate with anyone who is looking forward to
 - 📫 How to reach me:
