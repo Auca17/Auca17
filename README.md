@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Augustus</h1>
 <h3 align="center">Software Engineering Student at University of Mendoza</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auca17" alt="auca17" /></a> </p>
-
 - 🌱 I’m currently learning **N8N and React**
 
 - 📫 How to reach me **augurufino@gmail.com**
